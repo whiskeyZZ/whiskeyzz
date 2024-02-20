@@ -10,12 +10,11 @@
 <p>season &#8594; spring</p>
 <p>color &#8594; milky way blue</p>
 <p>os &#8594; linux</p>
-<p>god &#8594; krishna</p>
 <p>pokemon &#8594; mew</p>
 </br>
 
 <h2 style="color:#6999d1">Tech Stack</h2>
-<p>Java &#183; Python &#183; Typescript &#183; C# &#183;  Bash</p>
+<p>Java &#183;  Python &#183; Typescript &#183; C# &#183;  Bash</p>
 <p>Angular &#183; Spring &#183; JavaEE</p>
 <p>Kali &#183; Unity</p>
 <br/>

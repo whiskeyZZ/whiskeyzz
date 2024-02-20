@@ -18,5 +18,4 @@
 <a href="https://github.com/whiskeyzz/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiskeyzz&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=whiskeyzz&theme=tokyonight" alt="whiskeyzz" />
 <br/>
-<br/>
 <h2>$ curl whiskeyzz.github.io</h2>
